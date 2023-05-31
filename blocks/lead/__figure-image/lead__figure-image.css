@@ -1,7 +1,7 @@
 .lead__figure-image {
 	width: 100%;
 	margin: 0 auto 0 auto;
-	object-fit: cover;
+	object-fit: contain;
 	object-position: center;
 }
 
