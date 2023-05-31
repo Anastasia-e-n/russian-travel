@@ -1,25 +1,7 @@
 .lead__figure-image {
 	width: 100%;
-	min-height: 615px;
 	margin: 0 auto 0 auto;
 	object-fit: cover;
 	object-position: center;
 }
 
-@media screen and (max-width: 1279px) {
-  .lead__figure-image {
-      min-height: 580px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .lead__figure-image  {
-   	min-height: 480px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .lead__figure-image {
-    min-height: 200px;
-  }
-}
