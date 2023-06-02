@@ -6,7 +6,6 @@
   color: #fff;
   opacity: 1;
   transition: opacity 0.1s ease-in;
-  text-transform: uppercase;
 }
 
 .header__lang-link:hover {
